@@ -1,0 +1,15 @@
+C:\Users\dolro\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\TextFrequencyAnalysis.exe
+C:\Users\dolro\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\TextFrequencyAnalysis.deps.json
+C:\Users\dolro\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\TextFrequencyAnalysis.runtimeconfig.json
+C:\Users\dolro\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\TextFrequencyAnalysis.dll
+C:\Users\dolro\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\TextFrequencyAnalysis.pdb
+C:\Users\dolro\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\TextFrequencyAnalysis.csproj.AssemblyReference.cache
+C:\Users\dolro\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\TextFrequencyAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dolro\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\TextFrequencyAnalysis.AssemblyInfoInputs.cache
+C:\Users\dolro\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\TextFrequencyAnalysis.AssemblyInfo.cs
+C:\Users\dolro\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\TextFrequencyAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\dolro\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\TextFrequencyAnalysis.dll
+C:\Users\dolro\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\TextFrequencyAnalysis.dll
+C:\Users\dolro\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\TextFrequencyAnalysis.pdb
+C:\Users\dolro\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\TextFrequencyAnalysis.genruntimeconfig.cache
+C:\Users\dolro\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\TextFrequencyAnalysis.dll
